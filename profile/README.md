@@ -6,7 +6,7 @@ Aegilo Industries delivers security solutions that fuse intelligence analysis, g
 * **What we do:** Expert risk assessments, live intelligence, and a GSOC-grade platform with danger-zone mapping and real-time alerts.
 * **How we do it:** Ex-military and certified analysts paired with engineers and AI specialists—privacy-first and standards-aligned.
 
-**CTA:** Talk to us: [hello@aegilo.com](mailto:hello@aegilo.com)
+Talk to us: [hello@aegilo.com](mailto:hello@aegilo.com)
 
 ---
 
@@ -17,8 +17,6 @@ We partner with select teams to prototype fast, ship clean, and scale responsibl
 
 * **Services:** Rapid prototyping, agentic automation, computer vision & edge AI, geospatial analytics, model evaluation & MLOps.
 * **Outputs:** Production-ready components, clear runbooks, measurable impact.
-
-**Note:** Guardian AI has evolved into our Aegilo Industries stack—same mission, tighter brand.
 
 ---
 
