@@ -1,16 +1,30 @@
 # Aegilo Industries
 
+**Mission:** We build and bring defense‑grade technology to the civilian market—responsibly, securely, and at speed.
+
 **Risk intelligence, built for the real world.**
 Aegilo Industries delivers security solutions that fuse intelligence analysis, geospatial data, and AI. We help teams see risks early, act faster, and keep people and assets safe—anywhere.
 
 * **What we do:** Expert risk assessments, live intelligence, and a GSOC-grade platform with danger-zone mapping and real-time alerts.
 * **How we do it:** Ex-military and certified analysts paired with engineers and AI specialists—privacy-first and standards-aligned.
 
-Talk to us: [hello@aegilo.com](mailto:hello@aegilo.com)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#license) ![Built in Switzerland](https://img.shields.io/badge/Built_in-Switzerland-red) [![Contact](https://img.shields.io/badge/Contact-hello%40aegilo.com-black)](mailto:hello@aegilo.com)
 
----
+## Table of Contents
 
-# Aegilo Labs
+- [Aegilo Labs](#aegilo-labs)
+- [The Aegilo Platform (GSOC)](#the-aegilo-platform-gsoc)
+- [Geospatial Event Engine (GSEE)](#geospatial-event-engine-gsee)
+- [Event Spatial Dynamics Engine](#event-spatial-dynamics-engine)
+- [Edge Sensor & Mesh Kit](#edge-sensor--mesh-kit)
+- [Agentic Ops Suite](#agentic-ops-suite)
+- [Geopolitical Risk Forecasting](#geopolitical-risk-forecasting)
+- [Graph-Native Memory (R&D)](#graph-native-memory-rd)
+- [Why Aegilo](#why-aegilo)
+- [Get in Touch](#get-in-touch)
+- [License](#license)
+
+## Aegilo Labs
 
 **A boutique AI & autonomy lab turning frontier tech into practical advantage.**
 We partner with select teams to prototype fast, ship clean, and scale responsibly. Think Anduril/Palantir energy—applied to private-sector security and operations.
@@ -20,7 +34,7 @@ We partner with select teams to prototype fast, ship clean, and scale responsibl
 
 ---
 
-# The Aegilo Platform (GSOC)
+## The Aegilo Platform (GSOC)
 
 **Your operations, risk-aware by default.**
 A real-time map that understands context: incidents, assets, routes, and evolving risk—all in one pane.
@@ -32,7 +46,7 @@ A real-time map that understands context: incidents, assets, routes, and evolvin
 
 ---
 
-# Geospatial Event Engine (GSEE)
+## Geospatial Event Engine (GSEE)
 
 **From “news” to actionable, geolocated events.**
 We ingest multi-source OSINT and primary feeds, extract EventMentions, and correlate them into canonical Events with time, place, severity, and confidence.
@@ -43,7 +57,7 @@ We ingest multi-source OSINT and primary feeds, extract EventMentions, and corre
 
 ---
 
-# Event Spatial Dynamics Engine
+## Event Spatial Dynamics Engine
 
 **Risk that moves like the real world.**
 Events are not dots on a map—they evolve. Our engine models spread, decay, and relevance over time and space, adapting geofences dynamically.
@@ -54,7 +68,7 @@ Events are not dots on a map—they evolve. Our engine models spread, decay, and
 
 ---
 
-# Edge Sensor & Mesh Kit
+## Edge Sensor & Mesh Kit
 
 **Eyes and ears where networks are weakest.**
 Jetson-class edge nodes with modular radio and vision pipelines designed for low-latency detection and degraded-comms environments.
@@ -65,7 +79,7 @@ Jetson-class edge nodes with modular radio and vision pipelines designed for low
 
 ---
 
-# Agentic Ops Suite
+## Agentic Ops Suite
 
 **Automation that actually closes the loop.**
 Task-specific AI agents orchestrated with guardrails to triage events, enrich context, draft analyst notes, and push decisive actions—no busywork.
@@ -76,7 +90,8 @@ Task-specific AI agents orchestrated with guardrails to triage events, enrich co
 
 ---
 
-**Location-based geopolitical risk forecasting for underwriters and security teams.**
+## Geopolitical Risk Forecasting
+
 A disciplined methodology that blends open-source intelligence, scenario planning, and model-assisted scoring to inform decisions—pricing, travel, and duty of care.
 
 * **Structured events → risk scores** you can reason about.
@@ -85,7 +100,7 @@ A disciplined methodology that blends open-source intelligence, scenario plannin
 
 
 
-# Graph-Native Memory (R\&D)
+## Graph-Native Memory (R\&D)
 
 **Give AI long-term memory that makes sense.**
 A temporal, graph-centric memory layer that links people, places, events, and evidence so agents recall and reason—safely and explainably.
@@ -96,7 +111,7 @@ A temporal, graph-centric memory layer that links people, places, events, and ev
 
 ---
 
-# Why Aegilo
+## Why Aegilo
 
 * **Dual-DNA:** battle-tested security tradecraft + modern AI engineering.
 * **Explainable by design:** every alert, score, and recommendation comes with provenance.
@@ -105,7 +120,7 @@ A temporal, graph-centric memory layer that links people, places, events, and ev
 
 ---
 
-# Get in Touch
+## Get in Touch
 
 **[hello@aegilo.com](mailto:hello@aegilo.com)**
 GitHub: *Aegilo* (org profile coming online as we open-source selected components and showcase case studies)
